@@ -1,5 +1,5 @@
 # AnalistaBancolombia
-Curso "Prueba Técnica - Analista Bancolombia" para choucair
+Course "Prueba Técnica - Analista Bancolombia" choucair
 
 In this repository you will find all the code carried out in the introductory course for the position of functional quality analyst.
 
